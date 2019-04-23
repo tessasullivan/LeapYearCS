@@ -7,3 +7,12 @@
 /Users/Guest/Desktop/Calendar.Solution/Calendar/obj/Debug/netcoreapp2.2/Calendar.AssemblyInfo.cs
 /Users/Guest/Desktop/Calendar.Solution/Calendar/obj/Debug/netcoreapp2.2/Calendar.dll
 /Users/Guest/Desktop/Calendar.Solution/Calendar/obj/Debug/netcoreapp2.2/Calendar.pdb
+/Users/Guest/Desktop/LeapYearCS/Calendar/bin/Debug/netcoreapp2.2/Calendar.deps.json
+/Users/Guest/Desktop/LeapYearCS/Calendar/bin/Debug/netcoreapp2.2/Calendar.dll
+/Users/Guest/Desktop/LeapYearCS/Calendar/bin/Debug/netcoreapp2.2/Calendar.pdb
+/Users/Guest/Desktop/LeapYearCS/Calendar/obj/Debug/netcoreapp2.2/Calendar.csprojAssemblyReference.cache
+/Users/Guest/Desktop/LeapYearCS/Calendar/obj/Debug/netcoreapp2.2/Calendar.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/LeapYearCS/Calendar/obj/Debug/netcoreapp2.2/Calendar.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/LeapYearCS/Calendar/obj/Debug/netcoreapp2.2/Calendar.AssemblyInfo.cs
+/Users/Guest/Desktop/LeapYearCS/Calendar/obj/Debug/netcoreapp2.2/Calendar.dll
+/Users/Guest/Desktop/LeapYearCS/Calendar/obj/Debug/netcoreapp2.2/Calendar.pdb
